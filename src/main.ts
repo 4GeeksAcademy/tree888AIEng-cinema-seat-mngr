@@ -232,8 +232,4 @@ async function main(): Promise<void> {
 
 main();
 
-<<<<<<< HEAD
 export { };
-=======
-export { };
->>>>>>> 5947ee51a4e6547561954e70823f3ae699be64df
